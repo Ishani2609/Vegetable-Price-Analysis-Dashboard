@@ -4,6 +4,7 @@ Interactive Vegetable Price Analysis Dashboard (2025) built using Microsoft Exce
 ## Dashboard Preview
 
 ![Vegetable Price Analysis Dashboard](https://github.com/Ishani2609/Vegetable-Price-Analysis-Dashboard/blob/main/Dashboad.png)
+[Illustrative]
 
 ## Project Overview
 
